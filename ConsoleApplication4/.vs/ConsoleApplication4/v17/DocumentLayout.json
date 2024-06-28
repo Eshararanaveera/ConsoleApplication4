@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6438C537-7987-41FD-9001-90AF5BA795D3}|ConsoleApplication4\\ConsoleApplication4.vcxproj|C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6438C537-7987-41FD-9001-90AF5BA795D3}|ConsoleApplication4\\ConsoleApplication4.vcxproj|solutionrelative:ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438C537-7987-41FD-9001-90AF5BA795D3}|ConsoleApplication4\\ConsoleApplication4.vcxproj|C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\RectangleX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6438C537-7987-41FD-9001-90AF5BA795D3}|ConsoleApplication4\\ConsoleApplication4.vcxproj|solutionrelative:ConsoleApplication4\\RectangleX.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438C537-7987-41FD-9001-90AF5BA795D3}|ConsoleApplication4\\ConsoleApplication4.vcxproj|C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\RectangleX.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6438C537-7987-41FD-9001-90AF5BA795D3}|ConsoleApplication4\\ConsoleApplication4.vcxproj|solutionrelative:ConsoleApplication4\\RectangleX.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438C537-7987-41FD-9001-90AF5BA795D3}|ConsoleApplication4\\ConsoleApplication4.vcxproj|C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6438C537-7987-41FD-9001-90AF5BA795D3}|ConsoleApplication4\\ConsoleApplication4.vcxproj|solutionrelative:ConsoleApplication4\\circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438C537-7987-41FD-9001-90AF5BA795D3}|ConsoleApplication4\\ConsoleApplication4.vcxproj|C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\squre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6438C537-7987-41FD-9001-90AF5BA795D3}|ConsoleApplication4\\ConsoleApplication4.vcxproj|solutionrelative:ConsoleApplication4\\squre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438C537-7987-41FD-9001-90AF5BA795D3}|ConsoleApplication4\\ConsoleApplication4.vcxproj|C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\squre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6438C537-7987-41FD-9001-90AF5BA795D3}|ConsoleApplication4\\ConsoleApplication4.vcxproj|solutionrelative:ConsoleApplication4\\squre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6438C537-7987-41FD-9001-90AF5BA795D3}|ConsoleApplication4\\ConsoleApplication4.vcxproj|C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6438C537-7987-41FD-9001-90AF5BA795D3}|ConsoleApplication4\\ConsoleApplication4.vcxproj|solutionrelative:ConsoleApplication4\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "circle.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\circle.h",
+              "RelativeDocumentMoniker": "ConsoleApplication4\\circle.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\circle.h",
+              "RelativeToolTip": "ConsoleApplication4\\circle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-24T06:53:36.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "squre.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\squre.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication4\\squre.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\squre.cpp",
+              "RelativeToolTip": "ConsoleApplication4\\squre.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-24T06:53:36.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "squre.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\squre.h",
+              "RelativeDocumentMoniker": "ConsoleApplication4\\squre.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\squre.h",
+              "RelativeToolTip": "ConsoleApplication4\\squre.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-24T06:53:36.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "circle.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\circle.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication4\\circle.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\circle.cpp",
+              "RelativeToolTip": "ConsoleApplication4\\circle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-24T06:53:36.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RectangleX.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\RectangleX.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication4\\RectangleX.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\RectangleX.cpp",
+              "RelativeToolTip": "ConsoleApplication4\\RectangleX.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-24T06:53:36.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RectangleX.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\RectangleX.h",
+              "RelativeDocumentMoniker": "ConsoleApplication4\\RectangleX.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\RectangleX.h",
+              "RelativeToolTip": "ConsoleApplication4\\RectangleX.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-24T06:53:36.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication4.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication4\\ConsoleApplication4.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4\\ConsoleApplication4.cpp*",
+              "RelativeToolTip": "ConsoleApplication4\\ConsoleApplication4.cpp*",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-24T06:53:36.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
